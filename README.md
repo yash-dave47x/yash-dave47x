@@ -16,8 +16,7 @@
 ### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/yash-dave-646b45188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-yadav-852259248" height="30" width="40" /></a>
-
-<a href="https://instagram.com/yash_dave47x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_live_ankit" height="30" width="40" /></a>
+<a href="https://instagram.com/_live_ankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"height="30" width="40" /></a>
 </p>
 
 
